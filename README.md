@@ -1,3 +1,3 @@
 # Git Commands
 
-##inside other user
+## Another user
