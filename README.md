@@ -1,3 +1,3 @@
 # Git Commands
 
-## Working with issue
+## Another user
